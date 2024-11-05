@@ -10,8 +10,11 @@
 
 </div>
 
----
+--
 # Text Sentiment Analysis using Caikit and Hugging Face
 Author : Cognitive Class AI🤖
 
+--
+# Hasil Akhir
+<img src="
 
