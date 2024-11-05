@@ -11,19 +11,7 @@
 </div>
 
 ---
-#### Author : Cognitive Class AI🤖
+# Text Sentiment Analysis using Caikit and Hugging Face
+Author : Cognitive Class AI🤖
 
-## 📌 Documentation:
-1. Install virtualenv <br>
-   <code>pip install --user virtualenv</code>
-2. Create virtualenv <br>
-   <code>virtualenv -p python3 env</code>
-3. Activate virtualenv <br>
-   <code>source env/bin/activate</code>
-4. Install requirements <br>
-   <code>pip install -r requirements.txt</code>
-5. Start runtime <br>
-   <code>python start_runtime.py</code>
-6. Start client <br>
-   <code>python client.py</code>
 
