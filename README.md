@@ -1,0 +1,7 @@
+<h1 align="center"> Sentiment Analysis using Caikit and Hugging Face</h1>
+<p align="center"> Caikit is an open source AI toolkit that enables users to manage models through a set of developer friendly APIs. It provides a consistent format for creating and using AI models against a wide variety of data domains and tasks. Caikit streamlines the management of AI models for application usage which enables developers to write applications that consume AI models who may not understand the intricate details of the AI models that they use.</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
