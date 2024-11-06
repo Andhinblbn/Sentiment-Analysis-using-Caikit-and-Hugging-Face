@@ -15,6 +15,42 @@
 Author : Cognitive Class AI🤖
 
 
-# Hasil Akhir
+## 🚀 Key Features
+- *Advanced Sentiment Models*: Uses the latest transformer models from Hugging Face for accurate sentiment analysis.
+- *Caikit Integration*: Leverages Caikit’s framework for modular and scalable AI development.
+- *User-Friendly Interface*: Offers an intuitive interface for ease of use.
+- *Multi-Language Support*: Conduct sentiment analysis across multiple major languages.
+- *Data Visualization*: Provides visualization of analysis results for deeper insights.
+
+## ✨ Tech Stack:
+- Python
+
+## 📝 Prerequisites:
+1. Linux/MacOS x86_64
+2. Caikit (v0.9.2)
+3. Python (v3.8+)
+4. pip (v23.0+)
+
+## 📌 Documentation:
+1. Install virtualenv <br>
+   <code>pip install --user virtualenv</code>
+2. Create virtualenv <br>
+   <code>virtualenv -p python3 env</code>
+3. Activate virtualenv <br>
+   <code>source env/bin/activate</code>
+4. Install requirements <br>
+   <code>pip install -r requirements.txt</code>
+5. Start runtime <br>
+   <code>python start_runtime.py</code>
+6. Start client <br>
+   <code>python client.py</code>
+
+
+
+
+# Final Results
 <img src="https://github.com/Andhinblbn/Sentiment-Analysis-using-Caikit-and-Hugging-Face/blob/5dc598de078de433eda37ecfc21fe827ce43acce/runtime_model/Hasil%20Akhir.jpg">
+
+
+
 
